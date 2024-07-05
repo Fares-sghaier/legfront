@@ -1,0 +1,9 @@
+/* Define error border color */
+.error-border {
+  border: 1px solid red;
+}
+
+/* Define valid border color */
+.valid-border {
+  border: 1px solid green;
+}
